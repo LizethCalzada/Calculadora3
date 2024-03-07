@@ -6,7 +6,7 @@ html, body{
 
 }
 body {
-    background: linear-gradient(45deg,hsl(269, 45%, 57%), #8e1473);
+    background: linear-gradient(45deg,hsl(327, 77%, 43%), #b685a6);
     font-family: Arial, sans-serif;
     color: white;
     display: flex;
@@ -40,7 +40,7 @@ body {
 
 }
 .botones:hover{
-    background-color: rgb(183, 50, 160);
+    background-color: rgb(126, 11, 136);
     transform: scale(1.1);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 
